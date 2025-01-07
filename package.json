@@ -1,0 +1,22 @@
+{
+  "name": "@j4tin/read-csv",
+  "version": "1.0.0",
+  "description": "npm package to help read csv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J4tinP/read-csv.git"
+  },
+  "keywords": [
+    "read",
+    "csv"
+  ],
+  "author": "jatin Purmessur",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.1.0"
+  }
+}
